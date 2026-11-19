@@ -67,3 +67,4 @@ O roteiro original terminava a primeira frase da introdução em "tem como objet
 ## Créditos
 
 Ministério das Comunicações e Anatel. Conteúdo das perguntas: equipe do projeto.
+<span class="credito">Desenvolvido por: Victor A. Lêla © 2026</span>
